@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-invoker/cloud-invoker.iml" filepath="$PROJECT_DIR$/cloud-invoker/cloud-invoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-provider/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-server/cloud-server.iml" filepath="$PROJECT_DIR$/cloud-server/cloud-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-template-test/rest-template-test.iml" filepath="$PROJECT_DIR$/rest-template-test/rest-template-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon.iml" />
+    </modules>
+  </component>
+</project>
